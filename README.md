@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Mhychealz/Mhychealz/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Mhychealz/Mhychealz/refs/heads/main/ChatGPT%20Image%20Nov%2028%2C%202025%2C%2006_49_13%20AM.png" width="100%" />
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm <strong>Oluwatomisin Michael Oluwadamilare</strong></h1>
 
